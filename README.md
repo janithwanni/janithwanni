@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-* 👩‍💻 I am a human bean.
-* 🌱 These days I'm learning on Interpretable Machine Learning and Data Visualization
-* 🔭 Interested in learning more on Julia and the scientific computation methods
-* 👩‍🎓 Currently studying for my BSc. Statistics (Hons.) in the University of Jayewardenepura.
-* 🔍 I develop R packages to make life easier for me and love contributing to the R packages of others.
-* 📫 You can reach me at my email or my twitter.
-* ⚡ Fun fact about me: I still don't know how Kubernetes actually works even though I was tasked with managing an entire cluster
+* 👩‍💻 I am a human being, not a human doing.
+* 🌱 These days I'm learning on Mechanistic Interpretability and Interactive Data Visualization
+* 🔭 Interested in learning more on Javascript and telling stories on the web.
+* 👩‍🎓 Currently studying for my PhD in Econometrics and Business Statistics at Monash University, Australia.
+* 🔍 I develop R packages (and mostly Shiny apps) to make life easier for me and love contributing to the R packages of others.
+* 📫 You can reach me at my email or my Bluesky.
+* ⚡ Fun fact about me: I still don't know how Kubernetes actually works even though I was tasked with managing an entire cluster.
 
 
 <!--
